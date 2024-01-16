@@ -11,7 +11,7 @@ short_labname: PBL
 email: kun8948@snu.ac.kr
 logo: logo.png
 description: > # 다음 줄에 연구실 소개 입력
-  Plant Bacteriology Lab, Seoul National University; 서울대학교 종업생명과학대학 오창식 교수 식물세균병학 연구실;
+  Plant Bacteriology Lab, Seoul National University; 서울대학교 농업생명과학대학 식물세균병학 연구실;
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  
 google-site-verification:
