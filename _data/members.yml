@@ -10,7 +10,7 @@ PI:
   scopus: 
   orcid: 
   researcherID: 
-  loop: 
+  loop: 107302
   linked: 
   fb: 
   twitter: 
@@ -23,6 +23,78 @@ Members:
   bio: 
   period: 
   jobtitle: Research Professor
+  portrait:
+  e-mail: 
+  web:
+  scopus:
+  orcid:
+  researcherID:
+  loop:
+  linked:
+  fb: 
+  twitter:
+  instagram:
+  
+- name: 김형순
+  engName: 
+  degree:  PhD
+  bio: 
+  period: 
+  jobtitle: Researcher
+  portrait:
+  e-mail: 
+  web:
+  scopus:
+  orcid:
+  researcherID:
+  loop:
+  linked:
+  fb: 
+  twitter:
+  instagram:
+
+  - name: 오엄지
+  engName: 
+  degree:  PhD
+  bio: 
+  period: 
+  jobtitle: Researcher
+  portrait:
+  e-mail: 
+  web:
+  scopus:
+  orcid:
+  researcherID:
+  loop:
+  linked:
+  fb: 
+  twitter:
+  instagram:
+
+  - name: 김보영
+  engName: 
+  degree:  PhD
+  bio: 
+  period: 
+  jobtitle: Researcher
+  portrait:
+  e-mail: 
+  web:
+  scopus:
+  orcid:
+  researcherID:
+  loop:
+  linked:
+  fb: 
+  twitter:
+  instagram:
+
+- name: Nguyen Trung Vu
+  engName: 
+  degree:  PhD
+  bio: 
+  period: 
+  jobtitle: Researcher
   portrait:
   e-mail: 
   web:
