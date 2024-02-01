@@ -143,21 +143,57 @@ Members:
   twitter:
   instagram:
 
-- name: 다른학생
-  engName: Next Student
-  degree: MS
-  bio: Electrophysiology, Molecular Biology
-  period: 2019/3-
-  jobtitle: PhD Student
+- name: 이지원
+  engName: 
+  degree: 
+  bio: 
+  period: 
+  jobtitle: Ms Student
   portrait:
-  e-mail: donot@mail.com
+  e-mail: 
   web:
   scopus:
   orcid:
   researcherID:
   loop:
   linked:
-  fb: byeongmin.lee.9
+  fb: 
+  twitter:
+  instagram:
+  
+  - name: 정민호
+  engName: 
+  degree: 
+  bio: 
+  period: 
+  jobtitle: Ms Student
+  portrait:
+  e-mail: 
+  web:
+  scopus:
+  orcid:
+  researcherID:
+  loop:
+  linked:
+  fb: 
+  twitter:
+  instagram:
+
+    - name: 김명준
+  engName: 
+  degree: 
+  bio: 
+  period: 
+  jobtitle: Ms Student
+  portrait:
+  e-mail: 
+  web:
+  scopus:
+  orcid:
+  researcherID:
+  loop:
+  linked:
+  fb: 
   twitter:
   instagram:
 
