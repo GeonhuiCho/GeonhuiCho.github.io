@@ -1,20 +1,20 @@
 PI:
-- name: 나교수
-  engName: Gehoon Chung
-  degree: DDS, PhD
-  bio: Electrophysiology, Computational Biology
+- name: 오창식
+  engName: Chang-Sik Oh
+  degree: PhD
+  bio: --
   jobtitle: Associate Professor
   portrait: anonymous.jpg
-  e-mail: gehoon@snu.ac.kr
-  web: https://wiki.snu.ac.kr/GehoonChung
-  scopus: 7102049033
-  orcid: 0000-0002-8036-0879
-  researcherID: C-5714-2008
-  loop: 406457
-  linked: gehoon
-  fb: byeongmin.lee.9
-  twitter: gehoon
-  instagram: gehoon
+  e-mail: cso35@snu.ac.kr
+  web: 
+  scopus: 
+  orcid: 
+  researcherID: 
+  loop: 
+  linked: 
+  fb: 
+  twitter: 
+  instagram: 
 
 Members:
 - name: 전학생
